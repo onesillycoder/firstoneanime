@@ -9,6 +9,7 @@ header{
 }
 footer{
     background-color:rgb(122, 35, 35) ;
+    font-size:20px;
 }
 main{
     background-color: rgba(0, 0, 0, 0.651);
