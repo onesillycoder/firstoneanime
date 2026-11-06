@@ -16,8 +16,27 @@ main{
     font-family: OpenSans, Arial, Helvetica, sans-serif;
     font-size: 20px;
     color:yellowgreen;
+    display: flow-root;
     
 }
 h1{
     font-size: 50px;
+}
+#hpimg{
+    float: right;
+}
+#ap1img{
+    margin-left: 10px;
+    margin-right: 100px;
+}
+.apimg{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+.ap2img{
+    margin: 10px;
+}
+.epvid{
+    margin: 10px;
 }
